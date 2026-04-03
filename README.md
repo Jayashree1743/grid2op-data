@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**The first comprehensive data-side analysis of the Grid2Op Chronics dataset**  
+**The Comprehensive data side analysis of the Grid2Op Chronics dataset**  
 *Built at OpenEnv Hackathon 2026 · Meta × Hugging Face*
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
