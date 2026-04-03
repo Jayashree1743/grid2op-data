@@ -9,7 +9,7 @@
 [![Grid2Op](https://img.shields.io/badge/Grid2Op-1.12.3-FF6B35?style=flat-square)](https://grid2op.readthedocs.io)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/OpenEnv-Hackathon%202025-7c3aed?style=flat-square)](https://huggingface.co)
+[![Hackathon](https://img.shields.io/badge/OpenEnv-Hackathon%202026-7c3aed?style=flat-square)](https://huggingface.co)
 
 </div>
 
