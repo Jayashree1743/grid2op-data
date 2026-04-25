@@ -24,6 +24,9 @@ Which scenarios are dangerous? Why? At what hour does the grid peak? Which gener
 
 This project answers all of that.  Built a complete **data intelligence layer** on top of the Chronics dataset 19 KPIs extracted from every folder, a composite difficulty score for all 1,014 scenarios.
 
+<img width="1513" height="831" alt="image" src="https://github.com/user-attachments/assets/8c239483-c208-4a1d-a217-cf06a55d6b3e" />
+
+
 ---
 
 ## What We Actually Found (Real Numbers From the Data)
@@ -49,6 +52,8 @@ This project answers all of that.  Built a complete **data intelligence layer** 
 > Every number above came directly from running the notebook on the actual dataset — not estimates, not documentation values.
 
 ---
+
+
 
 ## Dataset Deep Dive
 
