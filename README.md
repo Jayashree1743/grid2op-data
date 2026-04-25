@@ -228,6 +228,8 @@ Every chart is saved at 150–200 dpi, ready for presentation or Power BI import
 | `chart_daily_load_peak.png` | Daily peak demand across all scenarios with day-of-week breakdown |
 | `chart_load_vs_voltage.png` | Does peak demand cause voltage fluctuation? Direct scatter test |
 
+<img width="1499" height="760" alt="image" src="https://github.com/user-attachments/assets/54beff19-959c-456c-ac29-d46b1b4de45f" />
+
 ---
 
 ## Chronic Data Structure
